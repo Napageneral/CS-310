@@ -1,0 +1,6 @@
+In this assignment, and in this class in general, students shall avoid writing to the standard system output
+or screen unless specifically directed. In reality, one cannot guarantee the program under development
+will ever use a display, so sending output to them may serve no useful purpose. Thus, students shall only
+write to the screen when reporting errors about the syntax of the program call (e.g., incorrect number of
+parameters), being unable to read the input file, or the inability to generate an output file.
+Any other errors or anomalies shall appear in the output file itself in clearly written terms. 

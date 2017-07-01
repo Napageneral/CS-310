@@ -1,0 +1,18 @@
+Printing contents of 10 item array
+9, 8, 7, 6, 5, 4, 3, 2, 1, 0, 
+contains(1): true
+Printing contents of 10 item array
+1, 9, 8, 7, 6, 5, 4, 3, 2, 0, 
+get(4): 6
+Printing contents of 10 item array
+1, 9, 8, 6, 7, 5, 4, 3, 2, 0, 
+
+
+Printing contents of 10 item array
+Zero, One, Two, Three, Four, Five, Six, Seven, Eight, Nine, 
+contains(One): true
+Printing contents of 10 item array
+One, Zero, Two, Three, Four, Five, Six, Seven, Eight, Nine, 
+get(4): Four
+Printing contents of 10 item array
+One, Zero, Two, Four, Three, Five, Six, Seven, Eight, Nine, 

@@ -1,0 +1,1264 @@
+Round 1:
+Combatants:800
+- Leaders -
+Bulbasaur       [Type :Grass/Poison][Total:318][HP:45][Combat Score:1863]
+Ivysaur       [Type :Grass/Poison][Total:405][HP:60][Combat Score:3163]
+Venusaur       [Type :Grass/Poison][Total:525][HP:80][Combat Score:5413]
+VenusaurMega Venusaur       [Type :Grass/Poison][Total:625][HP:80][Combat Score:6623]
+Charmander       [Type :Fire/][Total:309][HP:39][Combat Score:2692]
+
+Begin!
+DeoxysAttack Forme defeats Baltoy.
+Simipour defeats Amaura.
+Vanilluxe defeats Diancie.
+Lunatone defeats Beheeyem.
+Sableye defeats SableyeMega Sableye.
+BlastoiseMega Blastoise defeats Sneasel.
+Exploud defeats Ludicolo.
+Shinx defeats Patrat.
+Pikachu defeats Skiploom.
+Arcanine defeats Samurott.
+Barbaracle defeats Wingull.
+Weavile defeats Pupitar.
+Krookodile defeats Ledian.
+Mismagius defeats Pelipper.
+Carvanha defeats Azumarill.
+Scolipede defeats Mesprit.
+Emolga defeats Shuckle.
+Kabutops defeats Clefable.
+BeedrillMega Beedrill defeats Raichu.
+Gengar defeats Mightyena.
+Carnivine defeats Nidoran♂.
+Meowth defeats Voltorb.
+Jolteon defeats Mandibuzz.
+AggronMega Aggron defeats Abra.
+Rayquaza defeats Mamoswine.
+Tangrowth defeats Panpour.
+Miltank defeats Blitzle.
+DarmanitanStandard Mode defeats Ursaring.
+Staravia defeats Kakuna.
+Lugia defeats Wynaut.
+Mr. Mime defeats Meditite.
+Clauncher defeats Snubbull.
+Latias defeats Vibrava.
+Sandile defeats Throh.
+Monferno defeats Ducklett.
+LandorusIncarnate Forme defeats Graveler.
+Durant defeats Magcargo.
+Cranidos defeats Cleffa.
+Scizor defeats Pansage.
+LatiosMega Latios defeats Bidoof.
+Machoke defeats Nidorina.
+Dewott defeats Foongus.
+Lapras defeats Shuppet.
+Machamp defeats Slugma.
+SwampertMega Swampert defeats Suicune.
+Sceptile defeats Plusle.
+Leavanny defeats Sliggoo.
+Zangoose defeats AmpharosMega Ampharos.
+Celebi defeats GourgeistSuper Size.
+Qwilfish defeats Makuhita.
+AltariaMega Altaria defeats Florges.
+Croagunk defeats Wurmple.
+BlazikenMega Blaziken defeats ManectricMega Manectric.
+Wailord defeats Taillow.
+Chimchar defeats Duosion.
+Steelix defeats Honedge.
+Tyrunt defeats Flabébé.
+Milotic defeats Drowzee.
+Larvesta defeats Avalugg.
+Pidove defeats Grimer.
+SalamenceMega Salamence defeats Cloyster.
+Azelf defeats Eelektross.
+DeoxysSpeed Forme defeats MetagrossMega Metagross.
+Genesect defeats Vullaby.
+Octillery defeats Cradily.
+DeoxysNormal Forme defeats Spearow.
+Uxie defeats Dusclops.
+DarmanitanZen Mode defeats Corsola.
+Hawlucha defeats Doublade.
+Roserade defeats Glameow.
+Mankey defeats Golett.
+Victini defeats Escavalier.
+PinsirMega Pinsir defeats Breloom.
+Kyogre defeats Beautifly.
+Mewtwo defeats Ferrothorn.
+Golurk defeats Probopass.
+Toxicroak defeats Azurill.
+Dugtrio defeats Hitmonlee.
+Jumpluff defeats Venipede.
+Furfrou defeats Mudkip.
+Doduo defeats Shedinja.
+Watchog defeats SlowbroMega Slowbro.
+Solrock defeats Clawitzer.
+Vileplume defeats Silcoon.
+Magneton defeats Kabuto.
+MewtwoMega Mewtwo Y defeats Zweilous.
+Spritzee defeats Marill.
+Zubat defeats Shellos.
+Braviary defeats Chespin.
+Torchic defeats Shelmet.
+GlalieMega Glalie defeats Lopunny.
+Slowbro defeats Pidgey.
+Frogadier defeats Shieldon.
+Alakazam defeats Basculin.
+GourgeistSmall Size defeats Geodude.
+Vivillon defeats Mantine.
+Marshtomp defeats Sudowoodo.
+Regigigas defeats Yanma.
+Vaporeon defeats Bonsly.
+Sandslash defeats Buizel.
+Simisear defeats Articuno.
+Luxio defeats Bellsprout.
+Zekrom defeats Palpitoad.
+Slurpuff defeats Phantump.
+TornadusIncarnate Forme defeats Primeape.
+Electabuzz defeats Fletchinder.
+Pawniard defeats Stunfisk.
+AlakazamMega Alakazam defeats Metapod.
+AerodactylMega Aerodactyl defeats Nuzleaf.
+Gardevoir defeats Tropius.
+Jirachi defeats Weepinbell.
+HoundoomMega Houndoom defeats Rufflet.
+Kangaskhan defeats Gible.
+Phione defeats Pidgeotto.
+Cobalion defeats Camerupt.
+Heliolisk defeats Crustle.
+LandorusTherian Forme defeats Blissey.
+Groudon defeats Wooper.
+TyranitarMega Tyranitar defeats Tranquill.
+Dialga defeats Blaziken.
+Torterra defeats Poliwhirl.
+SharpedoMega Sharpedo defeats Diglett.
+Empoleon defeats Solosis.
+Victreebel defeats Druddigon.
+Bibarel defeats Onix.
+Klefki defeats Prinplup.
+Venusaur defeats Zigzagoon.
+Politoed defeats Croconaw.
+Rotom defeats Deino.
+GalladeMega Gallade defeats Mawile.
+Dragalge defeats Cherubi.
+KyuremBlack Kyurem defeats HeracrossMega Heracross.
+Drilbur defeats Chimecho.
+Farfetch'd defeats Tympole.
+Numel defeats Skrelp.
+LatiasMega Latias defeats Fraxure.
+Charmander defeats Mantyke.
+Drapion defeats Smeargle.
+Noctowl defeats Paras.
+Muk defeats Staryu.
+Ambipom defeats Illumise.
+Rhyhorn defeats Bronzor.
+Granbull defeats Golem.
+Dusknoir defeats Porygon.
+Ampharos defeats Scatterbug.
+Reshiram defeats Gabite.
+Gothitelle defeats Sunflora.
+Heatmor defeats Vulpix.
+Castform defeats Slowking.
+Excadrill defeats Braixen.
+Typhlosion defeats Beldum.
+Salamence defeats Huntail.
+Garchomp defeats Minccino.
+Floatzel defeats Riolu.
+Unown defeats Lileep.
+Luxray defeats Munna.
+Ninjask defeats Chandelure.
+Budew defeats Gothita.
+Chinchou defeats Pineco.
+ShayminLand Forme defeats Krokorok.
+Magmar defeats Magnezone.
+Yanmega defeats Seedot.
+Luvdisc defeats Ditto.
+AbsolMega Absol defeats Palkia.
+Natu defeats Magnemite.
+Jellicent defeats Seel.
+Umbreon defeats Cubchoo.
+Gastrodon defeats Tyrogue.
+Mienshao defeats Shroomish.
+Omanyte defeats Cubone.
+Liepard defeats Xatu.
+Purugly defeats Slowpoke.
+Haunter defeats Drifblim.
+Mothim defeats Porygon2.
+Shelgon defeats Eelektrik.
+Dragonair defeats Dustox.
+ScizorMega Scizor defeats Sylveon.
+Absol defeats Golbat.
+Gorebyss defeats Delcatty.
+Whiscash defeats Growlithe.
+Latios defeats Espeon.
+Omastar defeats Ralts.
+Banette defeats Quagsire.
+Seaking defeats Servine.
+Psyduck defeats Aron.
+Galvantula defeats Carracosta.
+Loudred defeats Cofagrigus.
+Masquerain defeats Noibat.
+Jynx defeats Darumaka.
+Arceus defeats Chansey.
+Archeops defeats Zorua.
+Lairon defeats Snorlax.
+GroudonPrimal Groudon defeats Roggenrola.
+Volcarona defeats Caterpie.
+Alomomola defeats Koffing.
+Hippowdon defeats Wailmer.
+HoopaHoopa Unbound defeats Oshawott.
+Tyranitar defeats Stunky.
+Zapdos defeats MedichamMega Medicham.
+Seadra defeats Togekiss.
+SteelixMega Steelix defeats Tepig.
+DiancieMega Diancie defeats Vigoroth.
+Linoone defeats Claydol.
+KyuremWhite Kyurem defeats Mew.
+MeloettaPirouette Forme defeats Yveltal.
+Spoink defeats Clefairy.
+Lilligant defeats Spinarak.
+Fearow defeats Purrloin.
+Gliscor defeats DeoxysDefense Forme.
+Snorunt defeats Turtwig.
+Hypno defeats Hariyama.
+Talonflame defeats Charmeleon.
+Sawsbuck defeats Medicham.
+Sealeo defeats Combee.
+Forretress defeats Torkoal.
+Tyrantrum defeats Archen.
+Misdreavus defeats Conkeldurr.
+Magmortar defeats Nincada.
+KyogrePrimal Kyogre defeats Charizard.
+Bulbasaur defeats Exeggcute.
+Entei defeats Eevee.
+Seismitoad defeats Cherrim.
+Simisage defeats Combusken.
+Fennekin defeats Sentret.
+MeowsticMale defeats Spheal.
+Gastly defeats AegislashShield Forme.
+Arbok defeats Lickilicky.
+LopunnyMega Lopunny defeats Aerodactyl.
+Pidgeot defeats RotomFrost Rotom.
+GiratinaOrigin Forme defeats Spinda.
+Magby defeats Metang.
+Rampardos defeats Anorith.
+Pangoro defeats Weedle.
+Klinklang defeats Oddish.
+HoopaHoopa Confined defeats Flaaffy.
+Seviper defeats Litleo.
+Lucario defeats Slakoth.
+GyaradosMega Gyarados defeats Dratini.
+Scyther defeats Flygon.
+Electivire defeats RotomFan Rotom.
+PumpkabooLarge Size defeats Venonat.
+ThundurusTherian Forme defeats Dedenne.
+Slaking defeats Machop.
+Serperior defeats Garbodor.
+Ho-oh defeats Elgyem.
+Manectric defeats Butterfree.
+Zygarde50% Forme defeats Finneon.
+Bronzong defeats Happiny.
+Heatran defeats Burmy.
+Abomasnow defeats Armaldo.
+Aggron defeats Klang.
+Gloom defeats Lotad.
+Kingler defeats Wartortle.
+Sharpedo defeats Frillish.
+Kingdra defeats Totodile.
+Stantler defeats GourgeistLarge Size.
+Grumpig defeats Sewaddle.
+Rapidash defeats Cacnea.
+Whirlipede defeats Gulpin.
+Aipom defeats Trubbish.
+GengarMega Gengar defeats Dewgong.
+Lanturn defeats Goomy.
+GarchompMega Garchomp defeats Maractus.
+Starmie defeats Pinsir.
+Relicanth defeats Tentacool.
+Raikou defeats Hoppip.
+Staraptor defeats Gigalith.
+Chesnaught defeats Cyndaquil.
+Bayleef defeats Swadloon.
+Bunnelby defeats Sunkern.
+Cryogonal defeats Yamask.
+Gogoat defeats Scraggy.
+Flareon defeats Togetic.
+Malamar defeats Electrike.
+Herdier defeats Karrablast.
+PumpkabooSuper Size defeats Inkay.
+GourgeistAverage Size defeats CameruptMega Camerupt.
+Zebstrika defeats Hippopotas.
+Cinccino defeats Gligar.
+Musharna defeats Swablu.
+Elekid defeats Mareep.
+Trevenant defeats Aurorus.
+KeldeoResolute Forme defeats Cacturne.
+Terrakion defeats Clamperl.
+Leafeon defeats Beedrill.
+Kyurem defeats Beartic.
+MeloettaAria Forme defeats Pancham.
+Unfezant defeats Gyarados.
+Noivern defeats GiratinaAltered Forme.
+Infernape defeats Lillipup.
+KeldeoOrdinary Forme defeats Persian.
+Metagross defeats Krabby.
+Rhyperior defeats Cascoon.
+Diggersby defeats Ivysaur.
+Deerling defeats Mime Jr..
+Axew defeats Sandshrew.
+Magikarp defeats Kricketot.
+Spiritomb defeats Ferroseed.
+Girafarig defeats Lickitung.
+Electrode defeats Bastiodon.
+Stoutland defeats Sigilyph.
+Pyroar defeats RotomHeat Rotom.
+BanetteMega Banette defeats Dragonite.
+Wigglytuff defeats Piplup.
+Moltres defeats Rhydon.
+Regirock defeats Fletchling.
+Mienfoo defeats Audino.
+Zoroark defeats Weezing.
+Feraligatr defeats Poochyena.
+Minun defeats Ariados.
+Virizion defeats Joltik.
+Manaphy defeats Aromatisse.
+Piloswine defeats Pichu.
+Ponyta defeats Buneary.
+Poliwag defeats Vanillite.
+RayquazaMega Rayquaza defeats Skiddo.
+TornadusTherian Forme defeats AegislashBlade Forme.
+Cresselia defeats Swirlix.
+Tauros defeats Venomoth.
+Shiftry defeats MeowsticFemale.
+Drifloon defeats Lombre.
+Houndour defeats PumpkabooAverage Size.
+CharizardMega Charizard X defeats MawileMega Mawile.
+Delibird defeats Skitty.
+Porygon-Z defeats Parasect.
+Whimsicott defeats Hoothoot.
+Crawdaunt defeats Exeggutor.
+Houndoom defeats Volcanion.
+GardevoirMega Gardevoir defeats Cottonee.
+VenusaurMega Venusaur defeats Bergmite.
+Registeel defeats Corphish.
+WormadamPlant Cloak defeats Wobbuffet.
+Murkrow defeats Hitmontop.
+PidgeotMega Pidgeot defeats Delphox.
+Raticate defeats Roselia.
+Glaceon defeats Vespiquen.
+Dwebble defeats Nidoran♀.
+Chatot defeats Igglybuff.
+Greninja defeats Vanillish.
+Walrein defeats Munchlax.
+Bisharp defeats Snivy.
+Bagon defeats Lampent.
+Meganium defeats Ledyba.
+Goodra defeats Scrafty.
+Altaria defeats Klink.
+Froslass defeats Nidorino.
+Tangela defeats Remoraid.
+RotomMow Rotom defeats Chingling.
+Woobat defeats Rattata.
+Haxorus defeats Poliwrath.
+Gallade defeats Kecleon.
+Reuniclus defeats Chikorita.
+ShayminSky Forme defeats Feebas.
+CharizardMega Charizard Y defeats Whismur.
+RotomWash Rotom defeats Carbink.
+Larvitar defeats Tirtouga.
+Floette defeats WormadamTrash Cloak.
+Espurr defeats Boldore.
+Swanna defeats Blastoise.
+Xerneas defeats Nidoking.
+Froakie defeats Amoonguss.
+Emboar defeats Quilladin.
+Bouffalant defeats Phanpy.
+PumpkabooSmall Size defeats Grotle.
+Treecko defeats Goldeen.
+Heracross defeats Ekans.
+Dodrio defeats Swinub.
+Jigglypuff defeats Spewpa.
+Donphan defeats Pansear.
+LucarioMega Lucario defeats Timburr.
+Glalie defeats Smoochum.
+Lumineon defeats Duskull.
+Golduck defeats Snover.
+Petilil defeats Trapinch.
+Skuntank defeats Horsea.
+Furret defeats Squirtle.
+Dunsparce defeats Togepi.
+Tentacruel defeats Pignite.
+Regice defeats Barboach.
+Grovyle defeats Marowak.
+Crobat defeats Binacle.
+MewtwoMega Mewtwo X defeats ThundurusIncarnate Forme.
+Ninetales defeats Gurdurr.
+Swellow defeats Nosepass.
+Sawk defeats Helioptile.
+SceptileMega Sceptile defeats Tynamo.
+Kadabra defeats Gothorita.
+Accelgor defeats AbomasnowMega Abomasnow.
+Bellossom defeats AudinoMega Audino.
+Starly defeats Kirlia.
+Swoobat defeats Litwick.
+Swampert defeats Skarmory.
+Darkrai defeats Shellder.
+Volbeat defeats WormadamSandy Cloak.
+Nidoqueen defeats Kricketune.
+Quilava defeats Skorupi.
+Hitmonchan defeats Swalot.
+Teddiursa defeats Surskit.
+KangaskhanMega Kangaskhan defeats Pachirisu.
+Hydreigon defeats Honchkrow.
+
+Round Complete!
+
+Round 2:
+Combatants:400
+- Leaders -
+DeoxysAttack Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:20280]
+Simipour       [Type :Water/][Total:498][HP:75][Combat Score:7444]
+Vanilluxe       [Type :Ice/][Total:535][HP:71][Combat Score:5982]
+Lunatone       [Type :Rock/Psychic][Total:440][HP:70][Combat Score:3677]
+Sableye       [Type :Dark/Ghost][Total:380][HP:50][Combat Score:2782]
+
+Begin!
+Galvantula defeats Pidgeot.
+DeoxysAttack Forme defeats Crobat.
+Vanilluxe defeats Natu.
+Kingdra defeats Banette.
+Staravia defeats Granbull.
+Machamp defeats Quilava.
+Tyranitar defeats Regice.
+AerodactylMega Aerodactyl defeats Genesect.
+Dialga defeats AltariaMega Altaria.
+Infernape defeats Golduck.
+Froslass defeats RotomMow Rotom.
+Cinccino defeats Umbreon.
+Dewott defeats PumpkabooLarge Size.
+Watchog defeats Doduo.
+Seadra defeats WormadamPlant Cloak.
+Zebstrika defeats Charmander.
+SceptileMega Sceptile defeats Accelgor.
+MewtwoMega Mewtwo X defeats Garchomp.
+LopunnyMega Lopunny defeats Elekid.
+CharizardMega Charizard Y defeats Houndour.
+Frogadier defeats Wailord.
+Drapion defeats Whirlipede.
+GalladeMega Gallade defeats Monferno.
+Leavanny defeats Omastar.
+ShayminSky Forme defeats Qwilfish.
+Rayquaza defeats Ambipom.
+Electabuzz defeats Toxicroak.
+RayquazaMega Rayquaza defeats Arbok.
+ScizorMega Scizor defeats Volcarona.
+LandorusTherian Forme defeats VenusaurMega Venusaur.
+Empoleon defeats Bouffalant.
+Magneton defeats Sealeo.
+Minun defeats SteelixMega Steelix.
+Celebi defeats Luxray.
+HoundoomMega Houndoom defeats Jolteon.
+DeoxysSpeed Forme defeats Nidoqueen.
+Mienshao defeats Misdreavus.
+Gliscor defeats Larvesta.
+MewtwoMega Mewtwo Y defeats GengarMega Gengar.
+Hawlucha defeats Bisharp.
+Walrein defeats Dusknoir.
+Glalie defeats Spritzee.
+PinsirMega Pinsir defeats Trevenant.
+BeedrillMega Beedrill defeats Vaporeon.
+Typhlosion defeats Registeel.
+Jirachi defeats Diggersby.
+Chesnaught defeats Bayleef.
+HoopaHoopa Unbound defeats Wigglytuff.
+KyogrePrimal Kyogre defeats Jellicent.
+AlakazamMega Alakazam defeats Whimsicott.
+Weavile defeats Castform.
+Herdier defeats Chimchar.
+Milotic defeats DarmanitanZen Mode.
+Dragalge defeats Jigglypuff.
+Arceus defeats SharpedoMega Sharpedo.
+Pyroar defeats Gogoat.
+Octillery defeats Froakie.
+MeloettaAria Forme defeats Mienfoo.
+Serperior defeats Swampert.
+Loudred defeats Bronzong.
+Braviary defeats Crawdaunt.
+Cranidos defeats Numel.
+Noivern defeats Liepard.
+Solrock defeats Meowth.
+Leafeon defeats Tentacruel.
+LucarioMega Lucario defeats Bunnelby.
+Virizion defeats Dunsparce.
+GiratinaOrigin Forme defeats GourgeistAverage Size.
+SalamenceMega Salamence defeats Sableye.
+Sandile defeats Croagunk.
+SwampertMega Swampert defeats GourgeistSmall Size.
+GyaradosMega Gyarados defeats Linoone.
+LatiasMega Latias defeats Hitmonchan.
+Sceptile defeats Masquerain.
+Uxie defeats Vivillon.
+Lugia defeats Heracross.
+Carvanha defeats Pikachu.
+Ho-oh defeats KangaskhanMega Kangaskhan.
+Gothitelle defeats Shelgon.
+Emolga defeats Shinx.
+Haunter defeats Larvitar.
+Klinklang defeats Woobat.
+Ampharos defeats Espurr.
+Hydreigon defeats Houndoom.
+BlazikenMega Blaziken defeats Rampardos.
+Moltres defeats Roserade.
+Mothim defeats Farfetch'd.
+Zoroark defeats Magby.
+LandorusIncarnate Forme defeats Regirock.
+Ninetales defeats Luvdisc.
+Cobalion defeats Excadrill.
+Lairon defeats Pidove.
+TornadusTherian Forme defeats Hypno.
+Volbeat defeats Mankey.
+BlastoiseMega Blastoise defeats Teddiursa.
+Entei defeats Tyrantrum.
+Victreebel defeats Torterra.
+Simisage defeats Starmie.
+Terrakion defeats Phione.
+Seviper defeats Chinchou.
+Gardevoir defeats Bulbasaur.
+ThundurusTherian Forme defeats PidgeotMega Pidgeot.
+Sandslash defeats Delibird.
+Floette defeats Spoink.
+Goodra defeats Reuniclus.
+DeoxysNormal Forme defeats Xerneas.
+Durant defeats Donphan.
+Swanna defeats Chatot.
+HoopaHoopa Confined defeats Exploud.
+Zygarde50% Forme defeats Grovyle.
+Floatzel defeats Talonflame.
+Mewtwo defeats Lanturn.
+Gorebyss defeats Drifloon.
+Scizor defeats Seaking.
+ShayminLand Forme defeats Tauros.
+Drilbur defeats Omanyte.
+Scolipede defeats Clauncher.
+Ninjask defeats Bagon.
+Politoed defeats Petilil.
+Arcanine defeats Unfezant.
+TyranitarMega Tyranitar defeats MeowsticMale.
+Electrode defeats Girafarig.
+Venusaur defeats Raticate.
+Regigigas defeats Mr. Mime.
+Carnivine defeats Treecko.
+TornadusIncarnate Forme defeats Malamar.
+Lunatone defeats Noctowl.
+Heliolisk defeats Kingler.
+Simisear defeats Tangela.
+GarchompMega Garchomp defeats Zekrom.
+Feraligatr defeats Rotom.
+Stantler defeats Murkrow.
+Kangaskhan defeats Pawniard.
+Slowbro defeats Zubat.
+Heatran defeats Cryogonal.
+Archeops defeats Lilligant.
+KyuremWhite Kyurem defeats Krookodile.
+Shiftry defeats Swoobat.
+Glaceon defeats Machoke.
+Skuntank defeats RotomWash Rotom.
+Latios defeats Stoutland.
+Azelf defeats Steelix.
+Victini defeats PumpkabooSuper Size.
+Sawk defeats Flareon.
+Grumpig defeats Unown.
+Mismagius defeats PumpkabooSmall Size.
+Heatmor defeats Marshtomp.
+Porygon-Z defeats Bibarel.
+DarmanitanStandard Mode defeats Magmortar.
+GardevoirMega Gardevoir defeats Swellow.
+Rapidash defeats Furret.
+Emboar defeats Altaria.
+Kabutops defeats Dragonair.
+MeloettaPirouette Forme defeats Magikarp.
+Zangoose defeats Dugtrio.
+Kyurem defeats Jynx.
+Latias defeats Staraptor.
+Dodrio defeats Klefki.
+Pangoro defeats Deerling.
+Manaphy defeats Magmar.
+Lapras defeats Snorunt.
+Reshiram defeats Torchic.
+Barbaracle defeats Starly.
+Ponyta defeats Aipom.
+Alakazam defeats Budew.
+Sawsbuck defeats Bellossom.
+GroudonPrimal Groudon defeats Purugly.
+KeldeoOrdinary Forme defeats Golurk.
+BanetteMega Banette defeats KeldeoResolute Forme.
+Jumpluff defeats Muk.
+Cresselia defeats Spiritomb.
+Axew defeats Gloom.
+Groudon defeats Gastly.
+Electivire defeats Metagross.
+Gallade defeats Musharna.
+CharizardMega Charizard X defeats Tyrunt.
+Alomomola defeats Psyduck.
+Miltank defeats Dwebble.
+Raikou defeats Manectric.
+Greninja defeats Zapdos.
+Slaking defeats Rhyperior.
+Slurpuff defeats Forretress.
+Seismitoad defeats AggronMega Aggron.
+Simipour defeats Poliwag.
+Meganium defeats Fennekin.
+Darkrai defeats Haxorus.
+Yanmega defeats Vileplume.
+DiancieMega Diancie defeats Gengar.
+Lumineon defeats Tangrowth.
+Aggron defeats Gastrodon.
+Fearow defeats Piloswine.
+Sharpedo defeats Luxio.
+AbsolMega Absol defeats KyuremBlack Kyurem.
+Furfrou defeats Kadabra.
+Kyogre defeats Abomasnow.
+Salamence defeats Scyther.
+GlalieMega Glalie defeats Rhyhorn.
+Absol defeats Relicanth.
+Whiscash defeats Hippowdon.
+LatiosMega Latios defeats Lucario.
+
+Round Complete!
+
+Round 3:
+Combatants:200
+- Leaders -
+Galvantula       [Type :Bug/Electric][Total:472][HP:70][Combat Score:6840]
+DeoxysAttack Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:20280]
+Vanilluxe       [Type :Ice/][Total:535][HP:71][Combat Score:5982]
+Kingdra       [Type :Water/Dragon][Total:540][HP:75][Combat Score:6106]
+Staravia       [Type :Normal/Flying][Total:340][HP:55][Combat Score:3870]
+
+Begin!
+LatiasMega Latias defeats Celebi.
+KyuremWhite Kyurem defeats Goodra.
+Ninetales defeats Frogadier.
+BeedrillMega Beedrill defeats LandorusTherian Forme.
+AbsolMega Absol defeats Hawlucha.
+MewtwoMega Mewtwo X defeats RayquazaMega Rayquaza.
+MeloettaPirouette Forme defeats MeloettaAria Forme.
+TyranitarMega Tyranitar defeats Glalie.
+Ninjask defeats Victreebel.
+AerodactylMega Aerodactyl defeats Groudon.
+Infernape defeats Latias.
+Simipour defeats Loudred.
+Kyurem defeats Entei.
+Typhlosion defeats Gothitelle.
+Heatran defeats Kangaskhan.
+HoundoomMega Houndoom defeats Herdier.
+Cresselia defeats Gorebyss.
+GardevoirMega Gardevoir defeats Serperior.
+Hydreigon defeats Zygarde50% Forme.
+Ponyta defeats Politoed.
+Shiftry defeats Watchog.
+GlalieMega Glalie defeats Porygon-Z.
+Cobalion defeats Zangoose.
+Electivire defeats Emolga.
+KeldeoOrdinary Forme defeats Machamp.
+Gliscor defeats Sandslash.
+Latios defeats Walrein.
+Azelf defeats Kabutops.
+Archeops defeats Dewott.
+Sawsbuck defeats Barbaracle.
+LucarioMega Lucario defeats Rapidash.
+Raikou defeats Leafeon.
+Heatmor defeats Empoleon.
+CharizardMega Charizard Y defeats Lairon.
+Pangoro defeats Volbeat.
+Dialga defeats Dodrio.
+Weavile defeats Axew.
+Mewtwo defeats Swanna.
+GiratinaOrigin Forme defeats Skuntank.
+DeoxysNormal Forme defeats Milotic.
+Glaceon defeats Lunatone.
+Victini defeats Lapras.
+BlazikenMega Blaziken defeats HoopaHoopa Confined.
+Rayquaza defeats Durant.
+DarmanitanStandard Mode defeats Scizor.
+Drilbur defeats Alomomola.
+MewtwoMega Mewtwo Y defeats Carvanha.
+Kingdra defeats Heliolisk.
+Reshiram defeats Furfrou.
+Uxie defeats Carnivine.
+ThundurusTherian Forme defeats Electrode.
+Greninja defeats Sceptile.
+Froslass defeats Floette.
+Virizion defeats Mothim.
+SceptileMega Sceptile defeats Whiscash.
+Manaphy defeats Slowbro.
+Yanmega defeats Stantler.
+AlakazamMega Alakazam defeats Alakazam.
+Electabuzz defeats Magneton.
+LandorusIncarnate Forme defeats Kyogre.
+BanetteMega Banette defeats SwampertMega Swampert.
+ShayminLand Forme defeats Octillery.
+HoopaHoopa Unbound defeats Lugia.
+Arcanine defeats Chesnaught.
+TornadusTherian Forme defeats Sawk.
+DeoxysAttack Forme defeats ShayminSky Forme.
+LatiosMega Latios defeats Grumpig.
+Salamence defeats ScizorMega Scizor.
+Ho-oh defeats Solrock.
+Noivern defeats Minun.
+Darkrai defeats Staravia.
+Seismitoad defeats Seadra.
+Jirachi defeats Emboar.
+DeoxysSpeed Forme defeats Meganium.
+PinsirMega Pinsir defeats Cranidos.
+Tyranitar defeats Miltank.
+SalamenceMega Salamence defeats Zoroark.
+Slaking defeats Scolipede.
+Sharpedo defeats Sandile.
+Zebstrika defeats Lumineon.
+KyogrePrimal Kyogre defeats Aggron.
+Mismagius defeats Venusaur.
+Seviper defeats Ampharos.
+Gallade defeats Absol.
+Arceus defeats Klinklang.
+Floatzel defeats Leavanny.
+GroudonPrimal Groudon defeats BlastoiseMega Blastoise.
+Galvantula defeats Haunter.
+Moltres defeats Braviary.
+GarchompMega Garchomp defeats TornadusIncarnate Forme.
+GyaradosMega Gyarados defeats Jumpluff.
+Mienshao defeats Simisage.
+GalladeMega Gallade defeats Terrakion.
+Cinccino defeats Dragalge.
+Feraligatr defeats Gardevoir.
+DiancieMega Diancie defeats Regigigas.
+Pyroar defeats Fearow.
+Simisear defeats Slurpuff.
+Vanilluxe defeats Drapion.
+LopunnyMega Lopunny defeats CharizardMega Charizard X.
+
+Round Complete!
+
+Round 4:
+Combatants:100
+- Leaders -
+Legendary LatiasMega Latias       [Type :Dragon/Psychic][Total:700][HP:80][Combat Score:9545]
+Legendary KyuremWhite Kyurem       [Type :Dragon/Ice][Total:700][HP:125][Combat Score:9775]
+Legendary Ninetales       [Type :Fire/][Total:505][HP:73][Combat Score:5925]
+Legendary BeedrillMega Beedrill       [Type :Bug/Poison][Total:495][HP:65][Combat Score:11384]
+Legendary AbsolMega Absol       [Type :Dark/][Total:565][HP:65][Combat Score:11889]
+
+Begin!
+Salamence defeats TornadusTherian Forme.
+MewtwoMega Mewtwo X defeats SceptileMega Sceptile.
+Zebstrika defeats Drilbur.
+Azelf defeats Weavile.
+Darkrai defeats Floatzel.
+HoopaHoopa Unbound defeats Dialga.
+LatiosMega Latios defeats LandorusIncarnate Forme.
+LucarioMega Lucario defeats Kingdra.
+DeoxysNormal Forme defeats Simisear.
+GyaradosMega Gyarados defeats ShayminLand Forme.
+AlakazamMega Alakazam defeats Pangoro.
+Electivire defeats Uxie.
+AerodactylMega Aerodactyl defeats Mienshao.
+GarchompMega Garchomp defeats Mismagius.
+Mewtwo defeats Virizion.
+AbsolMega Absol defeats Arcanine.
+Manaphy defeats Glaceon.
+DeoxysSpeed Forme defeats GlalieMega Glalie.
+MewtwoMega Mewtwo Y defeats GalladeMega Gallade.
+Rayquaza defeats PinsirMega Pinsir.
+DeoxysAttack Forme defeats Cresselia.
+Archeops defeats Simipour.
+Infernape defeats Cinccino.
+BanetteMega Banette defeats Sawsbuck.
+Typhlosion defeats Ponyta.
+BlazikenMega Blaziken defeats Noivern.
+BeedrillMega Beedrill defeats Victini.
+DarmanitanStandard Mode defeats Ninetales.
+Froslass defeats Feraligatr.
+HoundoomMega Houndoom defeats ThundurusTherian Forme.
+LopunnyMega Lopunny defeats Gliscor.
+MeloettaPirouette Forme defeats Seismitoad.
+Slaking defeats Vanilluxe.
+Yanmega defeats Gallade.
+DiancieMega Diancie defeats GardevoirMega Gardevoir.
+Tyranitar defeats Heatmor.
+Ho-oh defeats Moltres.
+GroudonPrimal Groudon defeats TyranitarMega Tyranitar.
+Ninjask defeats Electabuzz.
+Sharpedo defeats Shiftry.
+KyogrePrimal Kyogre defeats CharizardMega Charizard Y.
+Greninja defeats KeldeoOrdinary Forme.
+SalamenceMega Salamence defeats Seviper.
+Arceus defeats Latios.
+Reshiram defeats Jirachi.
+Hydreigon defeats Galvantula.
+KyuremWhite Kyurem defeats Raikou.
+LatiasMega Latias defeats Heatran.
+GiratinaOrigin Forme defeats Pyroar.
+Kyurem defeats Cobalion.
+
+Round Complete!
+
+Round 5:
+Combatants:100
+- Leaders -
+Legendary Salamence       [Type :Dragon/Flying][Total:600][HP:95][Combat Score:9620]
+Legendary TornadusTherian Forme       [Type :Flying/][Total:580][HP:79][Combat Score:9425]
+Legendary MewtwoMega Mewtwo X       [Type :Psychic/Fighting][Total:780][HP:106][Combat Score:17505]
+Legendary SceptileMega Sceptile       [Type :Grass/Dragon][Total:630][HP:70][Combat Score:13221]
+Legendary Zebstrika       [Type :Electric/][Total:497][HP:75][Combat Score:8214]
+
+Begin!
+Kyurem defeats Ninjask.
+Rayquaza defeats Feraligatr.
+Archeops defeats Drilbur.
+LatiosMega Latios defeats ShayminLand Forme.
+AbsolMega Absol defeats ThundurusTherian Forme.
+Weavile defeats Manaphy.
+CharizardMega Charizard Y defeats Infernape.
+Mewtwo defeats Mismagius.
+Heatmor defeats Pangoro.
+Slaking defeats Raikou.
+PinsirMega Pinsir defeats Noivern.
+Reshiram defeats Vanilluxe.
+Darkrai defeats DarmanitanStandard Mode.
+MewtwoMega Mewtwo Y defeats Arceus.
+GroudonPrimal Groudon defeats Froslass.
+DeoxysAttack Forme defeats Ponyta.
+BlazikenMega Blaziken defeats AlakazamMega Alakazam.
+Pyroar defeats Ninetales.
+Mienshao defeats Cresselia.
+AerodactylMega Aerodactyl defeats Cobalion.
+GardevoirMega Gardevoir defeats Sharpedo.
+GyaradosMega Gyarados defeats Gliscor.
+KyogrePrimal Kyogre defeats Seviper.
+LatiasMega Latias defeats GlalieMega Glalie.
+Yanmega defeats Glaceon.
+Dialga defeats Arcanine.
+MeloettaPirouette Forme defeats TyranitarMega Tyranitar.
+Greninja defeats Gallade.
+Floatzel defeats Heatran.
+Victini defeats Kingdra.
+Ho-oh defeats Sawsbuck.
+KyuremWhite Kyurem defeats Cinccino.
+Zebstrika defeats Seismitoad.
+LucarioMega Lucario defeats BeedrillMega Beedrill.
+DeoxysSpeed Forme defeats GiratinaOrigin Forme.
+Electivire defeats Simipour.
+HoopaHoopa Unbound defeats Salamence.
+SalamenceMega Salamence defeats Azelf.
+GarchompMega Garchomp defeats Tyranitar.
+GalladeMega Gallade defeats BanetteMega Banette.
+TornadusTherian Forme defeats Hydreigon.
+Jirachi defeats Simisear.
+DiancieMega Diancie defeats HoundoomMega Houndoom.
+MewtwoMega Mewtwo X defeats SceptileMega Sceptile.
+Galvantula defeats Shiftry.
+KeldeoOrdinary Forme defeats Uxie.
+DeoxysNormal Forme defeats LandorusIncarnate Forme.
+Virizion defeats Electabuzz.
+LopunnyMega Lopunny defeats Latios.
+Moltres defeats Typhlosion.
+
+Round Complete!
+
+Round 6:
+Combatants:100
+- Leaders -
+Legendary Kyurem       [Type :Dragon/Ice][Total:660][HP:125][Combat Score:9300]
+Legendary Ninjask       [Type :Bug/Flying][Total:456][HP:61][Combat Score:9270]
+Legendary Rayquaza       [Type :Dragon/Flying][Total:680][HP:105][Combat Score:10710]
+Legendary Feraligatr       [Type :Water/][Total:530][HP:85][Combat Score:5757]
+Legendary Archeops       [Type :Rock/Flying][Total:567][HP:75][Combat Score:10877]
+
+Begin!
+KyuremWhite Kyurem defeats Gliscor.
+Kyurem defeats Drilbur.
+GalladeMega Gallade defeats Cresselia.
+Heatran defeats Feraligatr.
+Infernape defeats GiratinaOrigin Forme.
+SceptileMega Sceptile defeats AerodactylMega Aerodactyl.
+Archeops defeats BanetteMega Banette.
+GroudonPrimal Groudon defeats Glaceon.
+Noivern defeats Heatmor.
+KyogrePrimal Kyogre defeats Vanilluxe.
+Greninja defeats Ninetales.
+Rayquaza defeats Salamence.
+SalamenceMega Salamence defeats GarchompMega Garchomp.
+LucarioMega Lucario defeats Shiftry.
+Floatzel defeats Tyranitar.
+LopunnyMega Lopunny defeats KeldeoOrdinary Forme.
+MewtwoMega Mewtwo X defeats Froslass.
+Ninjask defeats Zebstrika.
+Latios defeats Jirachi.
+Dialga defeats Hydreigon.
+Weavile defeats Raikou.
+LatiosMega Latios defeats Pyroar.
+Victini defeats Manaphy.
+Ho-oh defeats Gallade.
+GlalieMega Glalie defeats Sharpedo.
+TornadusTherian Forme defeats Galvantula.
+DeoxysNormal Forme defeats Simipour.
+Cinccino defeats Sawsbuck.
+AlakazamMega Alakazam defeats Electabuzz.
+BeedrillMega Beedrill defeats Arceus.
+MewtwoMega Mewtwo Y defeats Seviper.
+Darkrai defeats Cobalion.
+Mewtwo defeats BlazikenMega Blaziken.
+Reshiram defeats Arcanine.
+Simisear defeats Yanmega.
+ThundurusTherian Forme defeats ShayminLand Forme.
+HoundoomMega Houndoom defeats Pangoro.
+AbsolMega Absol defeats Ponyta.
+DeoxysSpeed Forme defeats Seismitoad.
+Azelf defeats Slaking.
+MeloettaPirouette Forme defeats Virizion.
+DeoxysAttack Forme defeats Kingdra.
+TyranitarMega Tyranitar defeats Moltres.
+LandorusIncarnate Forme defeats Uxie.
+GyaradosMega Gyarados defeats DarmanitanStandard Mode.
+DiancieMega Diancie defeats Typhlosion.
+Mienshao defeats GardevoirMega Gardevoir.
+HoopaHoopa Unbound defeats LatiasMega Latias.
+Electivire defeats Mismagius.
+PinsirMega Pinsir defeats CharizardMega Charizard Y.
+
+Round Complete!
+
+Round 7:
+Combatants:77
+- Leaders -
+Legendary KyuremWhite Kyurem       [Type :Dragon/Ice][Total:700][HP:125][Combat Score:9775]
+Legendary Kyurem       [Type :Dragon/Ice][Total:660][HP:125][Combat Score:9300]
+Legendary GalladeMega Gallade       [Type :Psychic/Fighting][Total:618][HP:68][Combat Score:10987]
+Legendary Heatran       [Type :Fire/Steel][Total:600][HP:91][Combat Score:6049]
+Legendary Infernape       [Type :Fire/Fighting][Total:534][HP:76][Combat Score:8530]
+
+Begin!
+Moltres defeats Froslass.
+MewtwoMega Mewtwo Y defeats Arceus.
+DeoxysSpeed Forme defeats Floatzel.
+Slaking defeats Darkrai.
+LatiosMega Latios defeats Yanmega.
+Weavile defeats TyranitarMega Tyranitar.
+Manaphy defeats Virizion.
+GarchompMega Garchomp defeats Noivern.
+Ninjask defeats Latios.
+BanetteMega Banette defeats Sharpedo.
+LandorusIncarnate Forme defeats Dialga.
+Kyurem defeats GyaradosMega Gyarados.
+LatiasMega Latias defeats Heatmor.
+Mienshao defeats Pyroar.
+GlalieMega Glalie defeats Galvantula.
+Mewtwo defeats ThundurusTherian Forme.
+BlazikenMega Blaziken defeats TornadusTherian Forme.
+AbsolMega Absol defeats Typhlosion.
+Reshiram defeats GardevoirMega Gardevoir.
+PinsirMega Pinsir defeats Simisear.
+KeldeoOrdinary Forme defeats Tyranitar.
+MewtwoMega Mewtwo X defeats CharizardMega Charizard Y.
+Electivire defeats Jirachi.
+AerodactylMega Aerodactyl defeats Heatran.
+Hydreigon defeats Zebstrika.
+DeoxysNormal Forme defeats SalamenceMega Salamence.
+BeedrillMega Beedrill defeats Azelf.
+Salamence defeats GiratinaOrigin Forme.
+Archeops defeats Infernape.
+Rayquaza defeats HoundoomMega Houndoom.
+GalladeMega Gallade defeats MeloettaPirouette Forme.
+DeoxysAttack Forme defeats DiancieMega Diancie.
+LopunnyMega Lopunny defeats Victini.
+LucarioMega Lucario defeats KyogrePrimal Kyogre.
+AlakazamMega Alakazam defeats HoopaHoopa Unbound.
+GroudonPrimal Groudon defeats DarmanitanStandard Mode.
+Ho-oh defeats Cinccino.
+SceptileMega Sceptile defeats Greninja.
+
+Round Complete!
+
+Round 8:
+Combatants:56
+- Leaders -
+Legendary KyuremWhite Kyurem       [Type :Dragon/Ice][Total:700][HP:125][Combat Score:9775]
+Legendary Moltres       [Type :Fire/Flying][Total:580][HP:90][Combat Score:7422]
+Legendary MewtwoMega Mewtwo Y       [Type :Psychic/][Total:780][HP:106][Combat Score:17420]
+Legendary DeoxysSpeed Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:12915]
+Legendary Floatzel       [Type :Water/][Total:495][HP:85][Combat Score:8459]
+
+Begin!
+Ho-oh defeats KeldeoOrdinary Forme.
+AlakazamMega Alakazam defeats PinsirMega Pinsir.
+Reshiram defeats Zebstrika.
+DeoxysAttack Forme defeats LandorusIncarnate Forme.
+SceptileMega Sceptile defeats Rayquaza.
+DeoxysSpeed Forme defeats BanetteMega Banette.
+MeloettaPirouette Forme defeats GyaradosMega Gyarados.
+LopunnyMega Lopunny defeats Ninjask.
+DeoxysNormal Forme defeats Kyurem.
+AbsolMega Absol defeats Yanmega.
+MewtwoMega Mewtwo X defeats LucarioMega Lucario.
+AerodactylMega Aerodactyl defeats LatiosMega Latios.
+MewtwoMega Mewtwo Y defeats Greninja.
+DiancieMega Diancie defeats Mewtwo.
+Slaking defeats Weavile.
+SalamenceMega Salamence defeats KyogrePrimal Kyogre.
+HoopaHoopa Unbound defeats Mienshao.
+Electivire defeats Manaphy.
+GalladeMega Gallade defeats Dialga.
+HoundoomMega Houndoom defeats GlalieMega Glalie.
+Darkrai defeats Moltres.
+Archeops defeats TornadusTherian Forme.
+BeedrillMega Beedrill defeats Salamence.
+Azelf defeats Victini.
+BlazikenMega Blaziken defeats Infernape.
+GroudonPrimal Groudon defeats KyuremWhite Kyurem.
+LatiasMega Latias defeats Hydreigon.
+GarchompMega Garchomp defeats Floatzel.
+
+Round Complete!
+
+Round 9:
+Combatants:41
+- Leaders -
+Legendary Ho-oh       [Type :Fire/Flying][Total:680][HP:106][Combat Score:8492]
+Legendary AlakazamMega Alakazam       [Type :Psychic/][Total:590][HP:55][Combat Score:10387]
+Legendary PinsirMega Pinsir       [Type :Bug/Flying][Total:600][HP:65][Combat Score:9889]
+Legendary Reshiram       [Type :Dragon/Fire][Total:680][HP:100][Combat Score:8935]
+Legendary DeoxysAttack Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:20280]
+
+Begin!
+DiancieMega Diancie defeats Electivire.
+DeoxysNormal Forme defeats LucarioMega Lucario.
+SceptileMega Sceptile defeats KyuremWhite Kyurem.
+Azelf defeats MeloettaPirouette Forme.
+MewtwoMega Mewtwo X defeats GroudonPrimal Groudon.
+Slaking defeats HoopaHoopa Unbound.
+LopunnyMega Lopunny defeats Kyurem.
+AerodactylMega Aerodactyl defeats Archeops.
+Greninja defeats GyaradosMega Gyarados.
+MewtwoMega Mewtwo Y defeats Reshiram.
+DeoxysAttack Forme defeats Ninjask.
+SalamenceMega Salamence defeats PinsirMega Pinsir.
+LatiosMega Latios defeats AlakazamMega Alakazam.
+AbsolMega Absol defeats HoundoomMega Houndoom.
+DeoxysSpeed Forme defeats LatiasMega Latias.
+BeedrillMega Beedrill defeats Mienshao.
+Mewtwo defeats KyogrePrimal Kyogre.
+BlazikenMega Blaziken defeats Weavile.
+GarchompMega Garchomp defeats Rayquaza.
+GalladeMega Gallade defeats Darkrai.
+
+Round Complete!
+
+Round 10:
+Combatants:34
+- Leaders -
+Legendary Ho-oh       [Type :Fire/Flying][Total:680][HP:106][Combat Score:8492]
+Legendary DiancieMega Diancie       [Type :Rock/Fairy][Total:700][HP:50][Combat Score:13365]
+Legendary Electivire       [Type :Electric/][Total:540][HP:75][Combat Score:8099]
+Legendary DeoxysNormal Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:16950]
+Legendary LucarioMega Lucario       [Type :Fighting/Steel][Total:625][HP:70][Combat Score:12163]
+
+Begin!
+Slaking defeats AlakazamMega Alakazam.
+MewtwoMega Mewtwo X defeats LatiasMega Latias.
+GroudonPrimal Groudon defeats HoopaHoopa Unbound.
+DeoxysAttack Forme defeats Mewtwo.
+Rayquaza defeats Kyurem.
+Archeops defeats Reshiram.
+DeoxysNormal Forme defeats Azelf.
+AbsolMega Absol defeats GarchompMega Garchomp.
+MewtwoMega Mewtwo Y defeats Greninja.
+BeedrillMega Beedrill defeats MeloettaPirouette Forme.
+LucarioMega Lucario defeats BlazikenMega Blaziken.
+SalamenceMega Salamence defeats GalladeMega Gallade.
+AerodactylMega Aerodactyl defeats LopunnyMega Lopunny.
+Ho-oh defeats Electivire.
+DeoxysSpeed Forme defeats KyuremWhite Kyurem.
+LatiosMega Latios defeats Darkrai.
+DiancieMega Diancie defeats SceptileMega Sceptile.
+
+Round Complete!
+
+Round 11:
+Combatants:24
+- Leaders -
+Legendary Slaking       [Type :Normal/][Total:670][HP:150][Combat Score:10482]
+Legendary MewtwoMega Mewtwo X       [Type :Psychic/Fighting][Total:780][HP:106][Combat Score:17505]
+Legendary GroudonPrimal Groudon       [Type :Ground/Fire][Total:770][HP:100][Combat Score:11680]
+Legendary DeoxysAttack Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:20280]
+Legendary Mewtwo       [Type :Psychic/][Total:680][HP:106][Combat Score:12290]
+
+Begin!
+DeoxysNormal Forme defeats GarchompMega Garchomp.
+MewtwoMega Mewtwo Y defeats Mewtwo.
+DeoxysAttack Forme defeats DiancieMega Diancie.
+LopunnyMega Lopunny defeats GalladeMega Gallade.
+Archeops defeats Slaking.
+MewtwoMega Mewtwo X defeats GroudonPrimal Groudon.
+SalamenceMega Salamence defeats BlazikenMega Blaziken.
+DeoxysSpeed Forme defeats LucarioMega Lucario.
+AbsolMega Absol defeats Ho-oh.
+AerodactylMega Aerodactyl defeats BeedrillMega Beedrill.
+Rayquaza defeats Reshiram.
+LatiosMega Latios defeats Electivire.
+
+Round Complete!
+
+Round 12:
+Combatants:17
+- Leaders -
+Legendary DeoxysNormal Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:16950]
+Legendary MewtwoMega Mewtwo Y       [Type :Psychic/][Total:780][HP:106][Combat Score:17420]
+Legendary DeoxysAttack Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:20280]
+Legendary DiancieMega Diancie       [Type :Rock/Fairy][Total:700][HP:50][Combat Score:13365]
+Legendary LopunnyMega Lopunny       [Type :Normal/Fighting][Total:580][HP:65][Combat Score:11063]
+
+Begin!
+DiancieMega Diancie defeats GroudonPrimal Groudon.
+MewtwoMega Mewtwo Y defeats AbsolMega Absol.
+MewtwoMega Mewtwo X defeats DeoxysSpeed Forme.
+SalamenceMega Salamence defeats Ho-oh.
+Archeops defeats Slaking.
+AerodactylMega Aerodactyl defeats BeedrillMega Beedrill.
+LopunnyMega Lopunny defeats Rayquaza.
+DeoxysAttack Forme defeats LatiosMega Latios.
+
+Round Complete!
+
+Round 13:
+Combatants:13
+- Leaders -
+Legendary DeoxysNormal Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:16950]
+Legendary DiancieMega Diancie       [Type :Rock/Fairy][Total:700][HP:50][Combat Score:13365]
+Legendary MewtwoMega Mewtwo Y       [Type :Psychic/][Total:780][HP:106][Combat Score:17420]
+Legendary AbsolMega Absol       [Type :Dark/][Total:565][HP:65][Combat Score:11889]
+Legendary MewtwoMega Mewtwo X       [Type :Psychic/Fighting][Total:780][HP:106][Combat Score:17505]
+
+Begin!
+AbsolMega Absol defeats LatiosMega Latios.
+LopunnyMega Lopunny defeats Archeops.
+DeoxysAttack Forme defeats MewtwoMega Mewtwo X.
+AerodactylMega Aerodactyl defeats Ho-oh.
+MewtwoMega Mewtwo Y defeats SalamenceMega Salamence.
+DiancieMega Diancie defeats DeoxysSpeed Forme.
+
+Round Complete!
+
+Round 14:
+Combatants:11
+- Leaders -
+Legendary DeoxysNormal Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:16950]
+Legendary AbsolMega Absol       [Type :Dark/][Total:565][HP:65][Combat Score:11889]
+Legendary LopunnyMega Lopunny       [Type :Normal/Fighting][Total:580][HP:65][Combat Score:11063]
+Legendary Archeops       [Type :Rock/Flying][Total:567][HP:75][Combat Score:10877]
+Legendary DeoxysAttack Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:20280]
+
+Begin!
+DiancieMega Diancie defeats DeoxysSpeed Forme.
+DeoxysAttack Forme defeats Archeops.
+AerodactylMega Aerodactyl defeats LopunnyMega Lopunny.
+MewtwoMega Mewtwo Y defeats SalamenceMega Salamence.
+MewtwoMega Mewtwo X defeats AbsolMega Absol.
+
+Round Complete!
+
+Round 15:
+Combatants:8
+- Leaders -
+Legendary DeoxysNormal Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:16950]
+Legendary DiancieMega Diancie       [Type :Rock/Fairy][Total:700][HP:50][Combat Score:13365]
+Legendary DeoxysAttack Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:20280]
+Legendary AerodactylMega Aerodactyl       [Type :Rock/Flying][Total:615][HP:80][Combat Score:12882]
+Legendary LopunnyMega Lopunny       [Type :Normal/Fighting][Total:580][HP:65][Combat Score:11063]
+
+Begin!
+AerodactylMega Aerodactyl defeats AbsolMega Absol.
+DeoxysNormal Forme defeats DiancieMega Diancie.
+MewtwoMega Mewtwo Y defeats LopunnyMega Lopunny.
+DeoxysAttack Forme defeats MewtwoMega Mewtwo X.
+
+Round Complete!
+
+Round 16:
+Combatants:5
+- Leaders -
+Legendary AerodactylMega Aerodactyl       [Type :Rock/Flying][Total:615][HP:80][Combat Score:12882]
+Legendary DeoxysNormal Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:16950]
+Legendary MewtwoMega Mewtwo Y       [Type :Psychic/][Total:780][HP:106][Combat Score:17420]
+Legendary DeoxysAttack Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:20280]
+Legendary MewtwoMega Mewtwo X       [Type :Psychic/Fighting][Total:780][HP:106][Combat Score:17505]
+
+Begin!
+DeoxysAttack Forme defeats MewtwoMega Mewtwo Y.
+MewtwoMega Mewtwo X defeats DeoxysNormal Forme.
+
+Round Complete!
+
+Round 17:
+Combatants:5
+- Leaders -
+Legendary AerodactylMega Aerodactyl       [Type :Rock/Flying][Total:615][HP:80][Combat Score:12882]
+Legendary DeoxysAttack Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:20280]
+Legendary MewtwoMega Mewtwo Y       [Type :Psychic/][Total:780][HP:106][Combat Score:17420]
+Legendary MewtwoMega Mewtwo X       [Type :Psychic/Fighting][Total:780][HP:106][Combat Score:17505]
+Legendary DeoxysNormal Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:16950]
+
+Begin!
+MewtwoMega Mewtwo X defeats MewtwoMega Mewtwo Y.
+DeoxysAttack Forme defeats DeoxysNormal Forme.
+
+Round Complete!
+
+Round 18:
+Combatants:5
+- Leaders -
+Legendary AerodactylMega Aerodactyl       [Type :Rock/Flying][Total:615][HP:80][Combat Score:12882]
+Legendary MewtwoMega Mewtwo X       [Type :Psychic/Fighting][Total:780][HP:106][Combat Score:17505]
+Legendary MewtwoMega Mewtwo Y       [Type :Psychic/][Total:780][HP:106][Combat Score:17420]
+Legendary DeoxysAttack Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:20280]
+Legendary DeoxysNormal Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:16950]
+
+Begin!
+MewtwoMega Mewtwo Y defeats DeoxysNormal Forme.
+DeoxysAttack Forme defeats MewtwoMega Mewtwo X.
+
+Round Complete!
+
+Round 19:
+Combatants:3
+- Leaders -
+Legendary AerodactylMega Aerodactyl       [Type :Rock/Flying][Total:615][HP:80][Combat Score:12882]
+Legendary MewtwoMega Mewtwo Y       [Type :Psychic/][Total:780][HP:106][Combat Score:17420]
+Legendary DeoxysAttack Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:20280]
+
+Begin!
+DeoxysAttack Forme defeats MewtwoMega Mewtwo Y.
+
+Round Complete!
+
+Round 20:
+Combatants:2
+- Leaders -
+Legendary AerodactylMega Aerodactyl       [Type :Rock/Flying][Total:615][HP:80][Combat Score:12882]
+Legendary DeoxysAttack Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:20280]
+
+Begin!
+DeoxysAttack Forme defeats AerodactylMega Aerodactyl.
+
+Round Complete!
+
+Round 21:
+Combatants:2
+- Leaders -
+Legendary DeoxysAttack Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:20280]
+Legendary AerodactylMega Aerodactyl       [Type :Rock/Flying][Total:615][HP:80][Combat Score:12882]
+
+Begin!
+DeoxysAttack Forme defeats AerodactylMega Aerodactyl.
+
+Round Complete!
+
+
+The Champion is:Legendary DeoxysAttack Forme       [Type :Psychic/][Total:600][HP:50][Combat Score:20280]

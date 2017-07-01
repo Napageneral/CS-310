@@ -1,0 +1,10 @@
+Structure,method,time,n
+CircArrayList,addFirst,0.02048
+CircArrayList,addFirst,0.04096
+CircArrayList,addFirst,0.06144
+CircArrayList,removeFirst,0.02048
+CircArrayList,removeFirst,0.04096
+CircArrayList,removeFirst,0.06144
+ArrayList,addFirst,0.02048
+ArrayList,addFirst,0.04096
+ArrayList,addFirst,0.06144
